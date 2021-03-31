@@ -31,7 +31,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://maxvivanco.github.io/docs/post-2-volumen-luz/</guid>
-      <description>Volumenes de luz analogos       Volumenes de luz digitales       </description>
+      <description>Volumenes de luz analogo digitales       Volumenes de luz analogos       </description>
     </item>
     
     <item>
@@ -44,12 +44,12 @@
     </item>
     
     <item>
-      <title>Post 3: Volumen de Luz anmado en keyshot</title>
+      <title>Post 3: Investigacion animacion en keyshot</title>
       <link>https://maxvivanco.github.io/docs/post-3-keyshot/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://maxvivanco.github.io/docs/post-3-keyshot/</guid>
-      <description>Exploraciones e investigacion                Resultados       </description>
+      <description>Exploraciones e investigacion                </description>
     </item>
     
     <item>
@@ -59,6 +59,16 @@
       
       <guid>https://maxvivanco.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Post 4: Volumen de Luz anmado en keyshot</title>
+      <link>https://maxvivanco.github.io/docs/post-4-resultados.keyshot/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maxvivanco.github.io/docs/post-4-resultados.keyshot/</guid>
+      <description>Resultados Animacion keyshot Para esto fue necesario la generacion de piezas 3d en Fusion 360 para la proyeccion de sombras y asi realizar el volumen de luz animado.
+   &amp;hellip;&amp;hellip;</description>
     </item>
     
   </channel>
