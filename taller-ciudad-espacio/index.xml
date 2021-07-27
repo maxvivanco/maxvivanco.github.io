@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>ENCARGO 1</title>
+      <title>Presentación Avance 1 - tema</title>
       <link>https://maxvivanco.github.io/taller-ciudad-espacio/docs/encargo-1/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -35,7 +35,16 @@
     </item>
     
     <item>
-      <title>Produccion de Cerezos</title>
+      <title>Encargo Dibujos</title>
+      <link>https://maxvivanco.github.io/taller-ciudad-espacio/docs/encargo.dibujos/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maxvivanco.github.io/taller-ciudad-espacio/docs/encargo.dibujos/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Encargo Propuesta de valor</title>
       <link>https://maxvivanco.github.io/taller-ciudad-espacio/docs/produccion-cerezos/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
